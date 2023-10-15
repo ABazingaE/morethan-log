@@ -4,7 +4,7 @@ const CONFIG = {
     name: "bazinga",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "bacakend developer",
-    bio: "java.",
+    bio: "java",
     email: "zzjbazinga@gmail.com",
     linkedin: "zhuzijian",
     github: "ABazingaE",
@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `test`,
       href: "https://github.com/ABazingaE/morethan-log",
     },
   ],
